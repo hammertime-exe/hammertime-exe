@@ -41,8 +41,8 @@ hammertime@pitwall:~$ cat driver_profile.json
 ### 🛠️ The Garage — Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,dart,react,nextjs,nodejs,flutter,androidstudio,pytorch&theme=dark" alt="languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,aws,docker,kubernetes,jenkins,ansible,linux,git,matlab&theme=dark" alt="databases, cloud and tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,nextjs,nodejs,flutter,androidstudio,pytorch&theme=dark" alt="languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,docker,kubernetes,jenkins,ansible,linux,git,matlab&theme=dark" alt="databases, cloud and tools" />
 </p>
 
 <p align="center">
